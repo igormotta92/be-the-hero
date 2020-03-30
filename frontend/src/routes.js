@@ -7,6 +7,9 @@ import Profile from './pages/Profile';
 import NewIcident from './pages/NewIcident';
 
 export default function Routes() {
+
+    //console.log(this.props);
+
     return (
         <BrowserRouter>
             <Switch>

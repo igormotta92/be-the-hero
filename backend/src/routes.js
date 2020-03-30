@@ -53,7 +53,7 @@ const routes = express.Router();
 
 routes.post('/sessions', celebrate({
     [Segments.BODY]: Joi.object().keys({
-        id: Joi.number().required(),
+        id: Joi.required(),
     }) 
 }), SessionController.create); //Criação
 

@@ -9,9 +9,20 @@ import './styles.css';
 import logoImg from "../../assets/logo.svg";
 import heroesImg from "../../assets/heroes.png";
 
-export default function Logon() {
+function getQueryString(props, campo) {
+    const search = props.location.search; // could be '?foo=bar'
+    const params = new URLSearchParams(search);
+    return params.get(campo);
+}
 
-    const [id, setId] = useState('');
+export default function Logon(props) {
+
+    let init = '';
+    const oid = getQueryString(props, 'oid'); /*pegando id após rota de cadastro*/
+    if (oid) init = oid;
+
+    const [id, setId] = useState(init);
+    
     const history = useHistory();
 
     async function handleLogin(e) {
