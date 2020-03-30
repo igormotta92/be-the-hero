@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apsampaio/semana-omnistack-11">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormotta92/be-the-hero">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/apsampaio/semana-omnistack-11">
   
