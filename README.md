@@ -86,3 +86,5 @@ npm start
 ---
 
 Feito com ♥ by Andre Sampaio :wave:
+
+Achei muito massa esse README feito pelo <a href="https://github.com/apsampaio/semana-omnistack-11">apsampaio</a>
