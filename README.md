@@ -33,18 +33,23 @@
   <img alt="Frontend" src="git/prev.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## 💻 Sobre o Projeto
 
+O Be The Hero foi pensado em ajudar a fazer o bem ao próximo, onde as ONGs poderão se registrar e cadastrar incidentes com pessoas, animais e quem mais precisar. Esses casos ficaram disponível na Web para que pessoas "Heróis" que gostam de fazer o bem poderão vê os casos e entrar em contato com a ONG via E-mail ou WhatsApp salvando assim o dia de alguém.
+
+## :rocket: Tecnologias Usadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-
-## 💻 Projeto
-
-O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
+- [Jest](https://www.npmjs.com/package/jest)
+- [Celebrate](https://www.npmjs.com/package/celebrate)
+- [Sqlite](https://www.sqlite.org/)
+- [Insomnia](https://insomnia.rest/)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Query Builder Knex](http://knexjs.org/)
 
 ## 🤔 Como contribuir
 
@@ -82,9 +87,3 @@ npm start
 <p align="center">
   <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
 </p>
-
----
-
-Feito com ♥ by Andre Sampaio :wave:
-
-Achei muito massa esse README feito pelo <a href="https://github.com/apsampaio/semana-omnistack-11">apsampaio</a>
