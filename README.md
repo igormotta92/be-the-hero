@@ -9,14 +9,14 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormotta92/be-the-hero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apsampaio/semana-omnistack-11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormotta92/be-the-hero">
   
-  <a href="https://github.com/apsampaio/semana-omnistack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/apsampaio/semana-omnistack-11">
+  <a href="https://github.com/igormotta92/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormotta92/be-the-hero">
   </a>
 
-  <a href="https://github.com/apsampaio/semana-omnistack-11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/apsampaio/semana-omnistack-11">
+  <a href="https://github.com/igormotta92/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/igormotta92/be-the-hero">
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/apsampaio/semana-omnistack-11.git
+git clone https://github.com/igormotta92/be-the-hero.git
 cd semana-omnistack-11
 npm install
 ```
